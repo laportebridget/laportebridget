@@ -1,7 +1,7 @@
 # NASA — GAVRT Website Modernization & Accessibility
 
 **NASA Glenn Research Center · Digital Communications & Web Development Internship**  
-**Focus:** Website modernization, accessibility, scientific research translation, updated campaigns,communication, and original campaign icon design
+**Focus:** Website modernization, accessibility, scientific research translation, campaign content development, communication, and original campaign icon design
 
 <img src="../assets/nasa/hero.png" alt="Public GAVRT homepage featuring the Goldstone radio telescope, site navigation, and campaign links" width="100%">
 

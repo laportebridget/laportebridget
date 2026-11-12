@@ -5,7 +5,7 @@
 **Focus:** Interactive JavaScript, service selection, theme switching, and form validation  
 **Technologies:** HTML, CSS, JavaScript
 
-**[View the Project Process on Behance](https://www.behance.net/gallery/256856183/The-Aisle-Studio)**
+**[View the Project Process on Behance](https://www.behance.net/gallery/256856183/The-Aisle-Studio)** · **[GitHub](https://github.com/bridgetlaporte/aisle-studio)**
 
 <img src="../assets/aisle/home.png" alt="The Aisle Studio desktop homepage with an editorial layout and wedding photography" width="100%">
 

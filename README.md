@@ -25,24 +25,24 @@ My experience includes digital communications and website design and accessibili
     <td width="50%" valign="top">
       <a href="case-studies/nasa-gavrt.md"><img src="assets/project-nasa.png" alt="NASA GAVRT website: desktop and mobile preview" width="100%"></a>
       <p><strong>NASA GAVRT Website</strong><br>Scientific communication, content organization, and accessibility.</p>
-      <p><a href="case-studies/nasa-gavrt.md">Case study</a> · <a href="https://gavrt.lewiscenter.org/">Public GAVRT website</a></p>
+      <p><a href="case-studies/nasa-gavrt.md">Case Study</a> · <a href="https://gavrt.lewiscenter.org/">Public GAVRT Website</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="case-studies/engagement-website.md"><img src="assets/project-kruegers.png" alt="The Kruegers engagement website: desktop and mobile preview" width="100%"></a>
       <p><strong>The Kruegers Engagement Website</strong><br>Independent responsive web development with galleries and RSVP functionality.</p>
-      <p><a href="case-studies/engagement-website.md">Case study</a> · <a href="https://itsthekruegers.com/">Live website</a></p>
+      <p><a href="case-studies/engagement-website.md">Case Study</a> · <a href="https://itsthekruegers.com/">Live Website</a> · <a href="https://github.com/laportebridget/itsthekruegers">Repository</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="case-studies/aisle-studio.md"><img src="assets/project-aisle.png" alt="The Aisle Studio: single-page website preview" width="100%"></a>
       <p><strong>The Aisle Studio</strong><br>Interactive JavaScript and front-end development.</p>
-      <p><a href="case-studies/aisle-studio.md">Case study</a> · <a href="https://www.behance.net/gallery/256856183/The-Aisle-Studio">Behance project</a></p>
+      <p><a href="case-studies/aisle-studio.md">Case Study</a> · <a href="https://www.behance.net/gallery/256856183/The-Aisle-Studio">Behance Project</a> · <a href="https://github.com/bridgetlaporte/aisle-studio">Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/project-osos.png" alt="OSOS Medical: website design concept, coming soon" width="100%">
-      <p><strong>OSOS Medical</strong><br>Brand & Digital — <em>coming soon</em>.</p>
-      <p><em>Concept preview; website not yet launched.</em></p>
+      <p><strong>Osos Medical</strong><br>Brand & Digital — <em>coming soon</em>.</p>
+      <p><em>Concept Preview; website not yet published.</em></p>
     </td>
   </tr>
 </table>
