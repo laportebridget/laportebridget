@@ -21,7 +21,7 @@ I wanted to create a central website where engagement party guests could access 
 ## Synopsis
 
 Inspired by modern wedding websites, I combined personal style with a functional web application. I focused on elegant typography, creative use of photography, a strong color palette, and intuitive navigation to create a website that felt personal while staying practical for guests. The website follows a mobile-first system that functions on all screen sizes.
-
+whats 
 ## Process
 
 I designed and developed a multi-page website using HTML, CSS, and JavaScript. I created responsive layouts, navigation, interactive photo galleries, and contact and RSVP forms that connected to outside applications. To do this, I used Google Apps Script and Google Sheets to collect responses.
