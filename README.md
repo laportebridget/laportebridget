@@ -8,7 +8,7 @@
 
 **Accessible, user-centered websites that bring design, development, and communication together.**
 
-[LinkedIn](https://www.linkedin.com/in/bridgetlaporte) · [Featured work](#featured-work) · [Technical skills](#technical-skills)
+[LinkedIn](https://www.linkedin.com/in/bridgetlaporte) · [Technical skills](#technical-skills)
 
 </div>
 
