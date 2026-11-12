@@ -16,7 +16,7 @@
 
 I'm studying Graphic Information Technology — Full-Stack Development at **Arizona State University Ira A. Fulton Schools of Engineering**. I also graduated **valedictorian at California Polytechnic State University, San Luis Obispo**, with my B.A. in Communication Studies for Media & Technology.
 
-My experience includes digital communications and website design and accessibility work from my internship at **NASA Glenn Research Center** for the JPL and GAVRT programs. I'm interested in building digital experiences that are intuitive, accessible, and thoughtfully designed. I am currently working as Head Of Brand & Digital for **Osos Medical** where I am currently developing their brand, marketing, and website.  
+My experience includes digital communications and website design and accessibility work from my internship at **NASA Glenn Research Center** for the JPL and GAVRT programs. I'm interested in building digital experiences that are intuitive, accessible, and thoughtfully designed. I am currently working as Head of Brand & Digital for **Osos Medical** where I am currently developing their brand, marketing, and website.  
 
 ## Featured Work
 
